@@ -4,6 +4,7 @@ Flutter application for browsing books powered by the Google Books API.
 
 
 <img width="237" height="512" alt="thumbnail" src="https://github.com/user-attachments/assets/c2b9f106-5959-4fc4-b3dc-5c51e1bd72d5" />
+
 ## Features
 
 - Browse featured and newest free eBooks
